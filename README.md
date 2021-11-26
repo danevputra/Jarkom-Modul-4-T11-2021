@@ -26,3 +26,8 @@ Dari perhitungan subnet tersebut selanjutnya kami membuat tree yang berisi pemba
 <img src="/cidr/T11_tree cidr.jpg">
 <br><br>
 Dikarenakan kami mendapat prefix 10.47 sedangkan pada netmask /15 tidak ada 10.47 maka perlu kami turunkan hingga /17 untuk mendapatkan prefix IP kami.
+### Konfigurasi
+Selanjutnya kami membuat topologi tersebut pada GNS3, seperti gambar berikut ini.
+<br><br>
+<img src="/cidr/cidr gns.JPG">
+<br><br>

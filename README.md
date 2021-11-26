@@ -20,5 +20,9 @@ Berikut adalah pembagian yang kami lakukan dari topologi yang ada
 Terdapat total 14 lingkaran yang menggabungkan subnet-subnet yang telah ada, dengan pembagian sebagai berikut
 <br><br>
 <img src="/cidr/CIDR_excel.JPG">
-<br><br>
 ### Tree
+Dari perhitungan subnet tersebut selanjutnya kami membuat tree yang berisi pembagian IP ke setiap node yang ada, berikut adalah tree yang kami buat.
+<br><br>
+<img src="/cidr/T11_tree cidr.jpg">
+<br><br>
+Dikarenakan kami mendapat prefix 10.47 sedangkan pada netmask /15 tidak ada 10.47 maka perlu kami turunkan hingga /17 untuk mendapatkan prefix IP kami.

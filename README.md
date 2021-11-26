@@ -299,3 +299,7 @@ OIMO
 ```
 route add -net 10.47.20.0 netmask 255.255.252.0 gw 10.47.2.3
 ```
+
+### Kendala
+1. Pada awalnya kami merasa kesulitan dalam membuat tree dan pembagian CIDR, setelah membaca-baca kembali modul akhirnya kami bisa membuat tree dan pembagian CIDR
+2. Untuk routing terkadang ada beberapa IP yang terlewat, sehingga perlu lebih teliti.

@@ -11,6 +11,10 @@ Calvin Manuel | 05311940000049
 ## SOAL
 
 ### VLSM
+Berikut adalah pembagian yang kami lakukan dari topologi yang ada pada CPT
+
+
+
 ### CIDR
 #### Pembagian Subnet
 Berikut adalah pembagian yang kami lakukan dari topologi yang ada

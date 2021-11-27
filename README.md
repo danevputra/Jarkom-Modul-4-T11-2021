@@ -28,7 +28,7 @@ Berikut adalah gambar tree yang berisi IP setiap node yang ada
 #### Membuat Topologi CST
 Berikut adalah topologi dari vlsm
 <br><br>
-<src img="/vlsm/Topologi VLSM.png">
+<img src="/vlsm/Topologi VLSM.png">
 <br><br>
 
 

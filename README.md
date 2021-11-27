@@ -15,11 +15,21 @@ Calvin Manuel | 05311940000049
 Berikut adalah pembagian yang kami lakukan dari topologi yang ada pada CPT
 <br><br>
 <img src="/vlsm/pembagian subnet VLSM.jpg">
+<br><br>
+Pada gambar tersebut terdapat 15 subnet-subnet yang ada, dengan perhitungan sebagai berikut
+<br><br>
+<img src="/vlsm/VLSM subnet.png">
+<br><br>
 #### Tree
 Berikut adalah gambar tree yang berisi IP setiap node yang ada
 <br><br>
 <img src="/vlsm/T11_tree vlsm.jpg">
-
+<br><br>
+#### Membuat Topologi CST
+Berikut adalah topologi dari vlsm
+<br><br>
+<src img="/vlsm/Topologi VLSM.png">
+<br><br>
 
 
 ### CIDR
